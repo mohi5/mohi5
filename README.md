@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning about data science<br>and developing machine learning models
+I am currently learning about data science<br>and developing machine learning models 
 
 
 ## 🌐 Socials:
